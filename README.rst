@@ -1,4 +1,4 @@
-This is a CAD model for a chain holder for 1x drivetrains.  The stl meshes are
+This is a CAD model for a chain keeper for 1x drivetrains.  The stl meshes are
 included for your convenience, but the source file is provided if you need to
 make any modifications (e.g. to change the seatpost diameter, number of
 chainring teeth, etc.).  It is nearly fully parametric, and that will improve
